@@ -48,11 +48,11 @@
 
 ## BiliBili Downloader
 
-![BiliBili.png](BiliBili.png)
-
 Since `yt-dlp` doesn't work well with **BiliBili** for me, and because the platform splits its media into **DASH** *(Dynamic Adaptive Streaming over HTTP)* streams, I wanted to automate the download process
 
 To solve this, I wrote a **lightweight script** that extracts direct links to the **audio**, **video**, and **cover art**, while automatically generating a **ready-to-use PowerShell command** to download and merge everything
+
+![BiliBili.png](BiliBili.png)
 
 #### How to Use
 
