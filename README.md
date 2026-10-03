@@ -29,14 +29,14 @@
 | 22 | **イヤイヤヨ**                                 |                     [[jpg]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20イヤイヤヨ.jpg)                      |                                                       [mp3]                                                        |                     [[mp4]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20イヤイヤヨ.mp4)                      |
 | 23 | **エンゼル92**                                |                     [[jpg]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20エンゼル92.jpg)                     | [[m4a]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20エンゼル92.m4a) |                      [mp4](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20エンゼル92.mp4)                      |
 | 24 | **ノリョク**                                  |                      [[jpg]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20ノリョク.jpg)                      |                                                       [mp3]                                                        |                                                                           [mp4]                                                                            |
-| 25 | **自相矛盾的我，无法塑造理想的自己**                      |                [[jpg]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20自相矛盾的我，无法塑造理想的自己.jpg)                |                                                       [mp3]                                                        |                 [mp4](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20自相矛盾的我，无法塑造理想的自己.mp4)                 |
+| 25 | **自相矛盾な僕は、理想の自分を作れない件**                      |                [[jpg]](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20自相矛盾な僕は、理想の自分を作れない件.jpg)                |                                                       [mp3]                                                        |                 [mp4](https://raw.githubusercontent.com/RootTool0/Just-Vocaloid-Lost-Media/refs/heads/main/ひな｡%20-%20自相矛盾な僕は、理想の自分を作れない件.mp4)                 |
 
 #### Additional Links
 
 - https://filmot.com/channel/UCQblXtnMRNPAWRIwYaO7rwg/0/Hina
 - https://tube.archivarix.net/?q=%40a.hina6
 - https://web.archive.org/web/20241231193533/https://www.youtube.com/watch?v=KkRHTfmK6_U
-
+- 
 ## なそに _(nasoni) (насони)_
 
 | № | Song      |                                                      Artwork                                                      |                                                       Audio                                                       |                                                       Video                                                       | Additional |
