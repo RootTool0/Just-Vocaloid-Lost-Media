@@ -41,6 +41,10 @@
 - https://tube.archivarix.net/?q=%40a.hina6
 - https://web.archive.org/web/20241231193533/https://www.youtube.com/watch?v=KkRHTfmK6_U
 
+#### SPECIAL THANKS
+
+- **amia** - **The absolute savior of this archive.** Contributed half of the collection, bringing missing tracks and videos in flawless original quality. Basically the second coming of Hina. **Thank you!**
+
 ## なそに _(nasoni) (насони)_
 
 | № | Song | Cover |
@@ -57,7 +61,7 @@
 
 Also, a link to **MARETU Resources** _(thanks to amia)_ was left under **Hina's songs**, which was also saved
 
-Link: [**MARETU Resources**](./MARETU%20Resources/) _(Hina most likely used them, I don't know for sure)_
+Link: [**MARETU Resources**](./MARETU%20Resources/README.md) _(Hina most likely used them, I don't know for sure)_
 
 # My Tools
 
