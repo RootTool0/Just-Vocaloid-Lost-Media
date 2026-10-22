@@ -40,7 +40,7 @@
 - https://filmot.com/channel/UCQblXtnMRNPAWRIwYaO7rwg/0/Hina
 - https://tube.archivarix.net/?q=%40a.hina6
 - https://web.archive.org/web/20241231193533/https://www.youtube.com/watch?v=KkRHTfmK6_U
-- 
+
 ## なそに _(nasoni) (насони)_
 
 | № | Song | Cover |
@@ -50,6 +50,14 @@
 #### Additional Links
 
 - https://www.nicolog.jp/watch/sm45093771
+
+# Resources
+
+## MARETU Resources
+
+Also, a link to **MARETU Resources** _(thanks to amia)_ was left under **Hina's songs**, which was also saved
+
+Link: [**MARETU Resources**](./MARETU%20Resources/) _(Hina most likely used them, I don't know for sure)_
 
 # My Tools
 
