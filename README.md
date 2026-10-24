@@ -35,6 +35,13 @@
 | 25 | [**神様に禱を**](ひな｡/神様に禱を/README.md) | <img src="ひな｡/神様に禱を/Cover.jpg" width="160" height="90" alt="Cover"> |
 | 26 | [**自相矛盾な僕は、理想の自分を作れない件**](ひな｡/自相矛盾な僕は、理想の自分を作れない件/README.md) | <img src="ひな｡/自相矛盾な僕は、理想の自分を作れない件/Cover.jpg" width="160" height="90" alt="Cover"> |
 
+#### Remixes
+
+| № | Song | Cover |
+| :--- | :--- | :--: |
+| 1 | [**ニャン (Slowed)**](ひな｡/ニャン%20(Slowed)/README.md) | <img src="ひな｡/ニャン (Slowed)/Cover.png" width="160" height="90" alt="Cover"> |
+| 2 | [**ニャン (Speed Up)**](ひな｡/ニャン%20(Speed%20Up)/README.md) | <img src="ひな｡/ニャン (Speed Up)/Cover.png" width="160" height="90" alt="Cover"> |
+
 #### Additional Links
 
 - https://filmot.com/channel/UCQblXtnMRNPAWRIwYaO7rwg/0/Hina
@@ -43,7 +50,7 @@
 
 #### SPECIAL THANKS
 
-- **amia** - **The absolute savior of this archive.** Contributed half of the collection, bringing missing tracks and videos in flawless original quality. Basically the second coming of Hina. **Thank you!**
+- [**Amia**](https://github.com/amiap) - **The absolute savior of this archive.** Contributed half of the collection, bringing missing tracks and videos in flawless original quality. Basically the second coming of Hina. **Thank you!**
 
 ## なそに _(nasoni) (насони)_
 
