@@ -12,7 +12,7 @@
 | 2 | [**MEGALOVANIA**](ひな｡/MEGALOVANIA/README.md) | <img src="ひな｡/MEGALOVANIA/Cover.png" width="160" height="90" alt="Cover"> |
 | 3 | [**たいやきアーカイブ**](ひな｡/たいやきアーカイブ/README.md) | <img src="ひな｡/たいやきアーカイブ/Cover.jpg" width="160" height="90" alt="Cover"> |
 | 4 | [**イヤイヤヨ**](ひな｡/イヤイヤヨ/README.md) | <img src="ひな｡/イヤイヤヨ/Cover.jpg" width="160" height="90" alt="Cover"> |
-| 5 | [**エンゼル92**](ひな｡/エンゼル92/README.md) | <img src="ひな｡/エンゼル92/Cover.jpg" width="160" height="90" alt="Cover"> |
+| 5 | [**エンゼル92**](ひな｡/エンゼル92/README.md) | <img src="ひな｡/エンゼル92/Cover.png" width="160" height="90" alt="Cover"> |
 | 6 | [**クジェアウト**](ひな｡/クジェアウト/README.md) | <img src="ひな｡/クジェアウト/Cover.jpg" width="160" height="90" alt="Cover"> |
 | 7 | [**タンジェ**](ひな｡/タンジェ/README.md) | <img src="ひな｡/タンジェ/Cover.jpg" width="160" height="90" alt="Cover"> |
 | 8 | [**チョルギョ**](ひな｡/チョルギョ/README.md) | <img src="ひな｡/チョルギョ/Cover.jpg" width="160" height="90" alt="Cover"> |
