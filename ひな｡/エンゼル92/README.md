@@ -1,6 +1,6 @@
 # ひな｡ / エンゼル92
 
-<img src="Cover.jpg" alt="Cover Image" height="300">
+<img src="Cover.png" alt="Cover Image" height="300">
 
 | № | File |
 | :--- | :--- |
