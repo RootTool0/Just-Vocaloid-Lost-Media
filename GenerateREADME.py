@@ -59,7 +59,7 @@ def TEMPLATE_MAIN_README(archive_data):
             cover_file = next((f for f in os.listdir(item['path']) if Path(f).stem.lower() == "cover"), None)
             cover_cell = f'<img src="{rel_path}/{cover_file}" width="160" height="90" alt="Cover">' if cover_file else "**- no image -**"
             
-            table_rows.append(f"| {index} | [{item['song']}]({rel_path}/README.md) | {cover_cell} |")
+            table_rows.append(f"| {index} | [**{item['song']}**]({rel_path}/README.md) | {cover_cell} |")
         
         main_content.append("\n".join(table_rows))
         main_content.append("\n")
